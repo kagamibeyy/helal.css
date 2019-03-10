@@ -8,8 +8,8 @@ Status picker by URI -> https://cmpdc.github.io/bdtf/themes/FullScreenStatusPick
 
 */
 
-@import url(https://nfld99.github.io/Better-Discord/Notifications/Made_By_NFLD99.css);
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/FI/FIL.css);
+@import url(https://Kagamibey.github.io/Better-Discord/Notifications/Made_By_Kagamibey.css);
+@import url(https://Kagamibey.github.io/Better-Discord/Source_Code/FI/FIL.css);
 :root {
   --Update-Text: " Update #268 ";
   --Settings-Dock-Colour: var(--Main-Colour);
@@ -26,7 +26,7 @@ Status picker by URI -> https://cmpdc.github.io/bdtf/themes/FullScreenStatusPick
   background: transparent;
   border: 1px solid var(--Main-Colour);
   border-radius: 5px;
-  content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 200" style="width:100%;height:100px;"><g style="fill: lime; font-size: .8em; font-family:verdana"><text y="20" style="font-size: 2em; fill: lime;">Linkler</text><text y="45" style="font-size: 1.1em;" x="37">Github Link: https://nfld99.com/github</text><text y="65" style="font-size: 1.1em;" x="37">Support Server Link: https://nfld99.com/discord</text><text y="85" style="font-size: 1.1em;" x="37">My Twitch: https://kagamibey.com/twitch</text><text y="115" style="font-size: 2em; fill: lime;">Change Log</text><text y="140" style="font-size: 1.1em;" x="37">1. Fixed Icons</text></g></svg>') var(--Theme-Variant)", "var(--Update-Text);
+  content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 200" style="width:100%;height:100px;"><g style="fill: lime; font-size: .8em; font-family:verdana"><text y="20" style="font-size: 2em; fill: lime;">Linkler</text><text y="45" style="font-size: 1.1em;" x="37">Github Link: https://kagamibeyy.com/github</text><text y="65" style="font-size: 1.1em;" x="37">Yardım Server Link: https://kagamibey.com/discord</text><text y="85" style="font-size: 1.1em;" x="37">My Twitch: https://kagamibey.com/twitch</text><text y="115" style="font-size: 2em; fill: lime;">Loglar</text><text y="140" style="font-size: 1.1em;" x="37">1. Fixed Icons</text></g></svg>') var(--Theme-Variant)", "var(--Update-Text);
   text-align: center;
   animation: CLog 10s infinite linear;
   z-index: 9997;
@@ -277,7 +277,7 @@ body:after {
 }
 
 .auth-background {
-  background: url(https://nfld99.com/Bkg/DOFpZY5.jpg) 50% 50%/cover !important;
+  background: url(https://Kagamibey.com/Bkg/DOFpZY5.jpg) 50% 50%/cover !important;
 }
 
 form.deprecated.auth-form {
@@ -370,7 +370,7 @@ form.deprecated.auth-form footer {
   font-size: 15px;
 }
 
-#friends, #friends .btn, .friends-header, .friends-table, .search-bar, .wrapper-1Rf91z, .channels-wrap, .guild-channels, .account, .links, .messagesWrapper-3lZDfY, .title-wrap, .content, .chat-empty, .message-group-blocked, .private-channels, .guild-header header, .ider-red span {
+#friends, #friends .btn, .friends-header, .friends-table, .search-bar, .wrapper-1Rf91z, .channels-wrap, .guild-channels, .account, .Linkler, .messagesWrapper-3lZDfY, .title-wrap, .content, .chat-empty, .message-group-blocked, .private-channels, .guild-header header, .ider-red span {
   background: transparent !important;
 }
 
@@ -497,7 +497,7 @@ form.deprecated.auth-form footer {
   color: linear-gradient(to right, var(--Background-Colour), var(--Main-Colour)) !important;
 }
 
-.links li a:hover {
+.Linkler li a:hover {
   color: var(--Main-Colour) !important;
 }
 
@@ -1399,7 +1399,7 @@ div.bd-dropdown {
 
 .guild-settings-modal-members {
   border: 1px solid var(--Background-Colour) !important;
-  background-image: url(https://nfld99.com/Bkg/nekmRkx.jpg) !important;
+  background-image: url(https://Kagamibey.com/Bkg/nekmRkx.jpg) !important;
   background-size: cover;
 }
 
@@ -2421,7 +2421,7 @@ spinner-pulsing-ellipsis .spinner-item {
   padding-top: 2%;
   padding-left: 23%;
   display: block;
-  background: url(https://nfld99.com/Bkg/DOFpZY5.jpg) 50% 50%/cover !important;
+  background: url(https://Kagamibey.com/Bkg/DOFpZY5.jpg) 50% 50%/cover !important;
   border: 1px solid var(--Main-Colour);
   border-radius: 5px;
   content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" style="width:100%;height:100px;"><g style="fill: rgba(0,172,234,1); font-size: .8em; font-family:verdana"><text y="20" style="font-size: 2em; fill: rgba(0,172,234,1);">Thank you for using my theme!</text><text y="45" style="font-size: 1.1em;" x="37">Donators:</text><text y="65" style="font-size: 1.1em;" x="37">@BLACKROOSTER#1395.</text><text y="85" style="font-size: 1.1em;" x="37">@breadcat#6969.</text><text y="105" style="font-size: 1.1em;" x="37">@Pepsiman#1945.</text><text y="125" style="font-size: 1.1em;" x="37">@DragonStryder#7331.</text><text y="145" style="font-size: 1.1em;" x="37">@FirePhox#9737.</text><text y="165" style="font-size: 1.1em;" x="37">@GhostieFloof#6565.</text><text y="185" style="font-size: 1.1em;" x="37">@Cloud#7822.</text><text y="205" style="font-size: 1.1em;" x="37">@mxngxxse#0666.</text><text y="225" style="font-size: 1.1em;" x="37">@PoroUsedSnax#1337.</text><text y="245" style="font-size: 1.1em;" x="37">@RoV ZeRo#1337.</text><text y="265" style="font-size: 1.1em;" x="37">@Strato#4763.</text><text y="285" style="font-size: 1.1em;" x="37">@Kiari#1204.</text><text y="305" style="font-size: 1.1em;" x="37">@TwinShadow#5717.</text><text y="325" style="font-size: 1.1em;" x="37">@Shiz#9686.</text></g></svg>');
@@ -2443,12 +2443,12 @@ spinner-pulsing-ellipsis .spinner-item {
 }
 
 .image-33JSyf[style*='74b8b6de441bce1a59f9c4ac74f666e6'] {
-  content: url(https://nfld99.com/Bkg/6iUZYGP.png);
+  content: url(https://Kagamibey.com/Bkg/6iUZYGP.png);
   background-image: none!important;
 }
 
 .private-channels .channel .icon-friends {
-  background: url(https://rawgit.com/NFLD99/1ca29ab156d06fe6a54461074da0deeb/raw/6548f48e815388d30ac9d978459c0485a6fb95f2/Friends.svg);
+  background: url(https://rawgit.com/Kagamibey/1ca29ab156d06fe6a54461074da0deeb/raw/6548f48e815388d30ac9d978459c0485a6fb95f2/Friends.svg);
   background-size: 65%!important;
   background-position: 65%!important;
   background-repeat: no-repeat!important;
@@ -2770,7 +2770,7 @@ div.tab-bar-item.selected {
   width: 50px;
   padding-bottom: 11px;
   background-color: #a8a8a8 !important;
-  background-image: url(https://nfld99.com/Bkg/XVZz4KO.png) !important;
+  background-image: url(https://Kagamibey.com/Bkg/XVZz4KO.png) !important;
   background-size: 44%;
   background-repeat: no-repeat;
   border: none;
@@ -2801,7 +2801,7 @@ div.tab-bar-item.selected {
   width: 50px;
   padding-bottom: 11px;
   background-color: #a8a8a8 !important;
-  background-image: url(https://nfld99.com/Bkg/XVZz4KO.png) !important;
+  background-image: url(https://Kagamibey.com/Bkg/XVZz4KO.png) !important;
   background-size: 44%;
   background-repeat: no-repeat;
   border: none;
@@ -2951,7 +2951,7 @@ div.flex-spacer.flex-vertical form {
 /* nitro thing */
 
 .avatar-large[style*="a_"]+.comment .message.first .body-3rkFrF .username-wrapper:after {
-  content: url(https://nfld99.com/Bkg/rzf0lV7.png);
+  content: url(https://Kagamibey.com/Bkg/rzf0lV7.png);
   color: lime;
   margin-left: 5px;
   background: transparent;
@@ -3567,7 +3567,7 @@ div.form-inner, .form-actions {
 }
 
 .theme-dark .image-2LqJex {
-  background-image: url(https://nfld99.com/Bkg/PBwzzZX.jpg);
+  background-image: url(https://Kagamibey.com/Bkg/PBwzzZX.jpg);
 }
 
 .actionRed-1J19Tx, .actionRed-1J19Tx:hover {
@@ -3820,7 +3820,7 @@ div.form-inner, .form-actions {
 /* Search */
 
 /* .esc-text:after,.keybind-KpFkfr:after {
-  content: "Made By NFLD99";
+  content: "Made By Kagamibey";
   font-size: 15px;
 } */
 /* water marks */
@@ -3830,12 +3830,12 @@ div.form-inner, .form-actions {
 }
 
 #app-mount > div > div > div.layers-3iHuyZ.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.spacer-1fA9zc > div > div > div.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.firefoxFixScrollFlex-cnI2ix > div.channels-Ie2l6A.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.container-2Thooq > div.accountDetails-3k9g4n.nameTag-m8r81H > span.discriminator:after {
-  content: "  NFLD99.com  " !important;
+  content: "  Kagamibey.com  " !important;
   font-weight: bolder;
 }
 
 #app-mount > div > div > div > div > div > div > div > div > div > div > span.discriminator:after {
-  content: "  NFLD99.com  " !important;
+  content: "  Kagamibey.com  " !important;
   font-weight: bolder;
 }
 /* water marks */
@@ -4036,12 +4036,12 @@ div.form-inner, .form-actions {
 
 .updateIconForeground-2jeItf {
   fill: transparent;
-  background: url(https://nfld99.com/Bkg/80u9AQy.gif) 50% 50%/cover;
+  background: url(https://Kagamibey.com/Bkg/80u9AQy.gif) 50% 50%/cover;
 }
 
 .iconInactive-g2AXfB[name="Update"] {
   fill: transparent;
-  background: url(https://nfld99.com/Bkg/80u9AQy.gif) 50% 50%/cover!important;
+  background: url(https://Kagamibey.com/Bkg/80u9AQy.gif) 50% 50%/cover!important;
 }
 
 /* Tac Nuke */
@@ -4533,7 +4533,7 @@ div.form-inner, .form-actions {
 .message-group .message .markup-2BOw-j a[href*="https://gyazo.com"]:after, .markup-2BOw-j>a[href*="https://gyazo.com"]:after {
   content: " This website is not supported by anyone who like previews.";
   font-size: 15px;
-  animation: Links 2s infinite linear;
+  animation: Linkler 2s infinite linear;
 }
 
 .theme-dark .noChannel-Z1DQK7 {
@@ -4898,7 +4898,7 @@ div.option-popout.small-popout-box, div.context-menu, .context-menu .context-men
   border-color: var(--M-Colour);
 }
 
-.theme-dark .buttonPrimaryLinkDefault-1PQflF, .theme-dark .buttonPrimaryLinkDisabled-3Ey7-S, .theme-dark .buttonPrimaryLinkSubmitting-RbBzR4 {
+.theme-dark .buttonPrimaryLinkDefault-1PQflF, .theme-dark .buttonPrimaryLinkDisabled-3Ey7-S, .theme-dark .buttonPrimaryLinklerubmitting-RbBzR4 {
   color: var(--M-Colour);
 }
 
@@ -5046,7 +5046,7 @@ button.btn.btn-default {
 }
 
 .message-group .message .markup-2BOw-j a[href="https://discord.gg/kWRYPrq"]:after, .markup-2BOw-j>a[href="https://discord.gg/kWRYPrq"]:after {
-  content: "NFLD99s Support Server";
+  content: "Kagamibeys Support Server";
   color: var(--Main-Colour);
   font-size: 15px;
 }
@@ -5492,12 +5492,12 @@ button.btn.btn-default {
   border-bottom-color: var(--M-Colour);
 }
 
-a[href="https://www.twitch.tv/NFLD99"] {
+a[href="https://www.twitch.tv/Kagamibey"] {
   font-size: 0;
 }
 
-a[href="https://www.twitch.tv/NFLD99"]:after {
-  content: "NFLD99s Twitch";
+a[href="https://www.twitch.tv/Kagamibey"]:after {
+  content: "Kagamibeys Twitch";
   color: var(--Main-Colour);
   font-size: 15px;
 }
@@ -5522,73 +5522,73 @@ a[href="https://github.com/rauenzi/BetterDiscordAddons"]:after {
   font-size: 15px;
 }
 
-a[href="https://github.com/NFLD99/Better-Discord"] {
+a[href="https://github.com/Kagamibey/Better-Discord"] {
   font-size: 0;
 }
 
-a[href="https://github.com/NFLD99/Better-Discord"]:after {
-  content: "NFLD99's repo";
+a[href="https://github.com/KagamiBey/Better-Discord"]:after {
+  content: "Kagamibey's repo";
   color: var(--Main-Colour);
   font-size: 15px;
 }
 
-a[href="https://nfld99.com/"] {
+a[href="https://Kagamibey.com/"] {
   font-size: 0;
 }
 
-a[href="https://nfld99.com/"]:after {
-  content: "NFLD99's Website - Home Page";
+a[href="https://kagamibey.com/"]:after {
+  content: "Kagamibey's Website - Home Page";
   color: var(--Main-Colour);
   font-size: 15px;
 }
 
 /* 
-a[href="https://nfld99.com/main"] {
+a[href="https://kagamibey.com/main"] {
   font-size: 0;
 }
 
-a[href="https://nfld99.com/main"]:after {
-  content: "NFLD99's Website - Main Themes";
+a[href="https://Kagamibey.com/main"]:after {
+  content: "Kagamibey's Website - Main Themes";
   color:var(--Main-Colour);
   font-size: 15px;
 }
 
-a[href="https://nfld99.com/mini"] {
+a[href="https://Kagamibey.com/mini"] {
   font-size: 0;
 }
 
-a[href="https://nfld99.com/mini"]:after {
-  content: "NFLD99's Website - Mini Themes";
+a[href="https://Kagamibey.com/mini"]:after {
+  content: "Kagamibey's Website - Mini Themes";
   color:var(--Main-Colour);
   font-size: 15px;
 }
 
-a[href="https://nfld99.com/requested"] {
+a[href="https://Kagamibey.com/requested"] {
   font-size: 0;
 }
 
-a[href="https://nfld99.com/requested"]:after {
-  content: "NFLD99's Website - Requested Themes";
+a[href="https://Kagamibey.com/requested"]:after {
+  content: "Kagamibey's Website - Requested Themes";
   color:var(--Main-Colour);
   font-size: 15px;
 }
 
-a[href="https://nfld99.com/submitted"] {
+a[href="https://Kagamibey.com/submitted"] {
   font-size: 0;
 }
 
-a[href="https://nfld99.com/submitted"]:after {
-  content: "NFLD99's Website - Submited Themes";
+a[href="https://Kagamibey.com/submitted"]:after {
+  content: "Kagamibey's Website - Submited Themes";
   color:var(--Main-Colour);
   font-size: 15px;
 }
 
-a[href="https://nfld99.com/discord"] {
+a[href="https://Kagamibey.com/discord"] {
   font-size: 0;
 }
 
-a[href="https://nfld99.com/discord"]:after {
-  content: "NFLD99's Website - Discord Invite";
+a[href="https://Kagamibey.com/discord"]:after {
+  content: "Kagamibey's Website - Discord Invite";
   color:var(--Main-Colour);
   font-size: 15px;
 } */
@@ -5899,7 +5899,7 @@ a[href="https://github.com/hammy1/BDPlugins"]:after {
   background-color: var(--Background-Colour)!important;
 }
 
-.serverfolders-modal .form-tablinks.active {
+.serverfolders-modal .form-tabLinkler.active {
   border: 1px solid var(--Main-Colour)!important;
   background-color: var(--Background-Colour)!important;
 }
@@ -6539,7 +6539,7 @@ a[href="https://github.com/hammy1/BDPlugins"]:after {
 }
 
 .theme-dark .imageError-2OefUi {
-  background: url(https://nfld99.com/Bkg/96Ymjfy.png) 50% 50%/contain;
+  background: url(https://Kagamibey.com/Bkg/96Ymjfy.png) 50% 50%/contain;
   background-repeat: no-repeat!important;
 }
 
@@ -7442,7 +7442,7 @@ a[href="https://github.com/hammy1/BDPlugins"]:after {
 
 .theme-dark .contentWrapper-3WC1ID {
   background-color: var(--S-Colour);
-  background-image: url(https://nfld99.com/Bkg/Mcvi43u.png);
+  background-image: url(https://Kagamibey.com/Bkg/Mcvi43u.png);
   background-size: contain;
   height: 440px;
   position: relative;
@@ -7496,7 +7496,7 @@ a[href="https://github.com/hammy1/BDPlugins"]:after {
 }
 
 .logo-2iEHEq {
-  background: url(https://nfld99.com/Bkg/UI9uFRU.png) 50% 50%/contain;
+  background: url(https://Kagamibey.com/Bkg/UI9uFRU.png) 50% 50%/contain;
   background-repeat: no-repeat;
   width: 140px;
   height: 70px;
@@ -7584,7 +7584,7 @@ a[href="https://github.com/hammy1/BDPlugins"]:after {
 
 .inviteModal-34DdOm .scroller-3__pG8 {
   background-color: var(--S-Colour);
-  background-image: url(https://nfld99.com/Bkg/EMb6GWq.png);
+  background-image: url(https://Kagamibey.com/Bkg/EMb6GWq.png);
   height: 100%;
   position: relative;
   width: 400px;
@@ -8540,7 +8540,7 @@ a[href="https://github.com/hammy1/BDPlugins"]:after {
 }
 
 .premiumPromo-yVfLiA>img {
-  content: url(https://nfld99.com/Bkg/mTBPNOQ.png);
+  content: url(https://Kagamibey.com/Bkg/mTBPNOQ.png);
   height: 25%;
 }
 
@@ -9422,7 +9422,7 @@ a[href="https://github.com/hammy1/BDPlugins"]:after {
 }
 
 .theme-dark .text-GwUZgS:after {
-  content: " NFLD99.com/Discord";
+  content: " Kagamibey.com/Discord";
   color: var(--Main-Colour);
   font-size: 15px;
 }
@@ -9568,7 +9568,7 @@ a[href="https://github.com/hammy1/BDPlugins"]:after {
 }
 
 .fullScreen-3DKbL8 {
-  background: url(https://nfld99.com/Bkg/1uIcwYm.png) 50% 50%/cover !important;
+  background: url(https://Kagamibey.com/Bkg/1uIcwYm.png) 50% 50%/cover !important;
 }
 
 .ownerIcon-uZ6mE7 {
